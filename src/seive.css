@@ -1,0 +1,40 @@
+.nav{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: black;
+}
+
+.mainHeading{
+	font-family:freestyle;
+	font-size:60px;
+	color:white;
+	text-align: center;
+}
+.logo{
+	height: 100px;
+	width:100px;
+	float: left;
+}
+
+.startSeive{
+	font-family:freestyle;
+	font-size:18px;
+	margin: 0.2rem;
+    padding: 0.3rem 0.7rem;
+	color:	#66FF66;
+	border:2px solid 	#66FF66;
+	background-color:transparent;
+	border-radius:5px;
+}
+.startSeive:hover{
+	box-shadow: -0px -1px 5px  4px #66FF66;
+}
+.buttons{
+  display: flex;
+}
+
+.buttonContainer{
+  margin-left: 200px;
+  margin-top: 10px;
+}
